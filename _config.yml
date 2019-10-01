@@ -21,10 +21,10 @@ tiles-count: 8
 500px_url:
 facebook_url:
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com
 
 # build settings
 markdown: kramdown
