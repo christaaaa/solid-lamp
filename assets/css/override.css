@@ -52,6 +52,6 @@ header.major > :first-child::after{
   height:0;
 }
 
-/*.tiles article:nth-child(4n-1), .tiles article:nth-child(4n-2) {
+.tiles article:last-child {
     flex: 1 auto;
-}*/
+}
