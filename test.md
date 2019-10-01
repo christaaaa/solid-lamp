@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic
+title: test
 description: Lorem ipsum dolor est
 image: assets/images/pic08.jpg
 nav-menu: true
