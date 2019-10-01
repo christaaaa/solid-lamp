@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A test
-image: assets/images/pic08.jpg
+image: https://images.unsplash.com/photo-1516704135885-dc4c68a189e3
 nav-menu: true
 show_tile: true
 ---
