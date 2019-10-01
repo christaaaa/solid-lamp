@@ -1,8 +1,8 @@
 # site settings
-title: Your shit
+title: Horse
 subtitle: 
 email: youremailaddress@gmail.com
-description: This is the description
+description: I like apples and carrots
 baseurl: /solid-lamp # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:

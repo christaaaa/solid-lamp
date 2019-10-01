@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-home-title: 'Hey'
+home-title: 'Neigh'
 description: null
 image: null
 author: null
