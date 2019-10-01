@@ -1,9 +1,10 @@
-/*@media only screen and (max-width: 767px){
-  .videobg{
+@media only screen and (max-width: 767px){
+  .videobg video{
     display:none;
   }
 }
 
+/*
 @media only screen and (min-width: 768px){
   #banner{
     display:none;
