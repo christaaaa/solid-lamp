@@ -41,8 +41,7 @@
 
 #banner::after{
   background-image: linear-gradient(to right, rgba(40,50,75,1), rgba(246,81,88,1));
-  background-color: #333!important;
-  opacity:0.8!important;
+  opacity:0.85!important;
 }
 
 .vsc-controller{
