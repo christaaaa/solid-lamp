@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: A test
 image: assets/images/pic08.jpg
 nav-menu: true
