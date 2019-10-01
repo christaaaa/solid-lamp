@@ -1,8 +1,7 @@
 ---
 layout: page
-title: A test
-image: assets/images/pic08.jpg
-nav-menu: true
+title: Contact us
+nav-menu: false
 show_tile: true
 ---
 <!-- Contact -->
