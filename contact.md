@@ -30,18 +30,21 @@ show_tile: true
 		<section class="split">
 			<section>
 				<div class="contact-method">
+					<span class="icon fa-envelope"></span>
 					<h3>Email</h3>
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
+					<span class="icon fa-phone"></span>
 					<h3>Phone</h3>
 					<span>{{ site.phone }}</span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
+					<span class="icon fa-home"></span>
 					<h3>Address</h3>
 					<span>
 					{% if site.street_address %}
