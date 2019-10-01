@@ -1,4 +1,5 @@
 <section id="one" class="tiles">
+  {% for page in site.pages %}
   <article>
     <span class="image">
       <img src="assets/images/pic01.jpg" alt="" />
@@ -44,4 +45,5 @@
       <p>{{ page.description }}</p>
     </header>
   </article>
+  {% endfor %}
 </section>
