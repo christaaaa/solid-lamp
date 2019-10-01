@@ -2,7 +2,6 @@
 layout: page
 title: Elements
 nav-menu: true
-image: assets/images/pic11.jpg
 ---
 
 <!-- Main -->
