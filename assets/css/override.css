@@ -48,10 +48,6 @@
   display: none;
 }
 
-header.major > :first-child::after{
-  height:0;
-}
-
 .tiles article:last-child {
     flex: 1 auto;
 }
