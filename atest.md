@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A test
+title: A test page
 image: assets/images/pic08.jpg
 nav-menu: true
 show_tile: true
