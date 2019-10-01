@@ -39,6 +39,10 @@
   z-index: 2;
 }
 
+.vsc-controller{
+  display: none;
+}
+
 #banner{
   min-height:100vh!important;
 }
@@ -48,10 +52,11 @@
   opacity:0.85!important;
 }
 
-.vsc-controller{
-  display: none;
-}
-
 .tiles article:last-child {
     flex: 1 auto;
+}
+
+.lity-close, .lity-close:active, .lity-close:focus, .lity-close:hover, .lity-close:visited{
+  right: 50%;
+  top: 5%;
 }
