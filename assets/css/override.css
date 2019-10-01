@@ -1,5 +1,5 @@
-@media only screen and (max-width: 767px){
-  #videobg{
+/*@media only screen and (max-width: 767px){
+  .videobg{
     display:none;
   }
 }
@@ -9,8 +9,8 @@
     display:none;
   }
 }
-
-#videobg {
+*/
+.videobg {
   position: relative;
   background-color: black;
   height: 75vh;
@@ -19,7 +19,7 @@
   overflow: hidden;
 }
 
-#videobg video {
+.videobg video {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -34,12 +34,12 @@
   transform: translateX(-50%) translateY(-50%);
 }
 
-#videobg .container {
+.videobg .container {
   position: relative;
   z-index: 2;
 }
 
-#videobg .overlay {
+.videobg .overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -51,7 +51,7 @@
 }
 
 
-#videobg:after {
+.videobg:after {
  -moz-transition:opacity 2.5s ease;
  -webkit-transition:opacity 2.5s ease;
  -ms-transition:opacity 2.5s ease;
@@ -75,10 +75,10 @@
  width:100%;
  z-index:1
 }
-#videobg h1 {
+.videobg h1 {
  font-size:3.25em
 }
-#videobg>.inner {
+.videobg>.inner {
  -moz-transition:opacity 1.5s ease,-moz-transform 0.5s ease-out,-moz-filter 0.5s ease,-webkit-filter 0.5s ease;
  -webkit-transition:opacity 1.5s ease,-webkit-transform 0.5s ease-out,-webkit-filter 0.5s ease,-webkit-filter 0.5s ease;
  -ms-transition:opacity 1.5s ease,-ms-transform 0.5s ease-out,-ms-filter 0.5s ease,-webkit-filter 0.5s ease;
@@ -87,19 +87,19 @@
  position:relative;
  z-index:2
 }
-#videobg>.inner .image {
+.videobg>.inner .image {
  display:none
 }
-#videobg>.inner header {
+.videobg>.inner header {
  width:auto
 }
-#videobg>.inner header>:first-child {
+.videobg>.inner header>:first-child {
  width:auto
 }
-#videobg>.inner header>:first-child:after {
+.videobg>.inner header>:first-child:after {
  max-width:100%
 }
-#videobg>.inner .content {
+.videobg>.inner .content {
  display:-moz-flex;
  display:-webkit-flex;
  display:-ms-flex;
@@ -110,42 +110,42 @@
  align-items:center;
  margin:0 0 2em 0
 }
-#videobg>.inner .content>* {
+.videobg>.inner .content>* {
  margin-left:1.5em;
  margin-bottom:0
 }
-#videobg>.inner .content>:first-child {
+.videobg>.inner .content>:first-child {
  margin-left:0
 }
-#videobg>.inner .content p {
+.videobg>.inner .content p {
  font-size:0.7em;
  font-weight:600;
  letter-spacing:.25em;
  text-transform:uppercase
 }
-#videobg.major {
+.videobg.major {
  height:75vh;
  min-height:30em;
  max-height:50em
 }
-#videobg.major.alt {
+.videobg.major.alt {
  opacity:0.75
 }
-#videobg.style1:after {
+.videobg.style1:after {
  background-color:#6fc3df
 }
-#videobg.style2:after {
+.videobg.style2:after {
  background-color:#8d82c4
 }
-#videobg.style3:after {
+.videobg.style3:after {
  background-color:#ec8d81
 }
-#videobg.style4:after {
+.videobg.style4:after {
  background-color:#e7b788
 }
-#videobg.style5:after {
+.videobg.style5:after {
  background-color:#8ea9e8
 }
-#videobg.style6:after {
+.videobg.style6:after {
  background-color:#87c5a4
 }
