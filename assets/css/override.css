@@ -1,3 +1,15 @@
+@media only screen and (max-width: 767px){
+  #videobg{
+    display:none;
+  }
+}
+
+@media only screen and (min-width: 768px){
+  #banner{
+    display:none;
+  }
+}
+
 #videobg {
   position: relative;
   background-color: black;
