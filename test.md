@@ -1,7 +1,6 @@
 ---
 layout: page
 title: test
-description: Lorem ipsum dolor est
 image: assets/images/pic08.jpg
 nav-menu: true
 show_tile: true
