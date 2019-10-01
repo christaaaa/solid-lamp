@@ -53,6 +53,10 @@
   opacity:0.85!important;
 }
 
+.tiles article:nth-child(3), .tiles article:nth-child(4), .tiles article:nth-child(5){
+  width: 33% !important;
+}
+
 .tiles article:last-child {
     flex: 1 auto;
 }
