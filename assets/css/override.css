@@ -58,6 +58,6 @@
 }
 
 .lity-close, .lity-close:active, .lity-close:focus, .lity-close:hover, .lity-close:visited{
-  right: 50%;
-  top: 5%;
+  right: 50%!important;
+  top: 5%!important;
 }
