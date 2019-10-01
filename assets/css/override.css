@@ -47,3 +47,11 @@
 .vsc-controller{
   display: none;
 }
+
+header.major > :first-child::after{
+  height:0;
+}
+
+/*.tiles article:nth-child(4n-1), .tiles article:nth-child(4n-2) {
+    flex: 1 auto;
+}*/
